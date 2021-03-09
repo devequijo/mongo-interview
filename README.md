@@ -1,6 +1,6 @@
 # Task completed.
 
-Got one single agregation pipeline to get the retrive data, i understand that would be better to use {#out} or {$merge} to write a collection directly, Unfortunately my disk space is not enough to build my own mongoDB server on it, so i had to use MongoDB Atlas to make tests, so i there can't use {$accumulator} to make logic on the allDifs field. and had to work with tehm locally.  
+Got one single agregation pipeline to retrive data, i understand that would be better to use {#out} or {$merge} to write a collection directly, Unfortunately my disk space is not enough to build my own mongoDB server on it, so i had to use MongoDB Atlas to make tests, so i there can't use {$accumulator} to make logic on the allDifs field. and had to work with tehm locally.  
 
 ## Getting Started
 
